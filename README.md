@@ -5,12 +5,12 @@ It is imperative to evaluate all heat sources from conduction, radiation, and th
 - performed analytic and numerical calculations to assess heat loads from conduction, radiation, and electronics
 - developed Python code bases to perform these calculations with varying material properties
 
-## Design
+## Notes and Assumptions:
 - material properties from NIST database: https://trc.nist.gov/cryogenics/materials/materialproperties.htm
+- PTC head temperatures assumed from Cryomech loading curves: https://cdn.bluefors.com/wp-content/uploads/2023/09/22145601/PT420-RM-Capacity-Curve.pdf
 
 ## Summary of Results:
 - large thermal overhead at low-temperature stages with Cryomech PT420 and the Bluefors SD250
-- PTC head temperatures assumed from Cryomech loading curves: https://cdn.bluefors.com/wp-content/uploads/2023/09/22145601/PT420-RM-Capacity-Curve.pdf
 
 |Loading Source|50 Kelvin (W)|4 Kelvin (W)|0.1 Kelvin (microW)|
 |:---------:|:----------:|:----------:|:----------:|
