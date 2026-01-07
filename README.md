@@ -1,5 +1,5 @@
 # Thermal-Budgeting-of-SPT-4-Cryostat
-It is imperative to evaluate all heat sources from conduction, radiation, and the electronics that are present in the integrated design in order to verify the efficacy of the cryogenic refrigeration. I did the full accounting of heat sources for the SPT-4 Cryostat using a combination of research results and empircal data extrapolated from SPT-3G (see analysis document). I developed Python code to perform these heat transfer calculations for this and similar cryogenics instrumentation designs. The code can be found here.
+It is imperative to evaluate all heat sources from conduction, radiation, and the electronics that are present in the integrated design in order to verify the efficacy of the cryogenic refrigeration. I did the full accounting of heat sources for the SPT-4 Cryostat using a combination of research results and empircal data extrapolated from SPT-3G (see analysis document). I developed Python code to perform these heat transfer calculations for this and similar cryogenics instrumentation designs. The code can be found [here](https://github.com/ahryciuk/Thermal-Gradient-Analysis-of-SPT-4-Cryostat).
 
 ## My Role:
 - performed analytic and numerical calculations to assess heat loads from conduction, radiation, and electronics
